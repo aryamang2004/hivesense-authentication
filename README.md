@@ -1,1 +1,1 @@
-# wd301
+# HiveSense Authentication
